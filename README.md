@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FungusGaming
+- 👋 Hi, I’m [@FungusGaming](https://fungusgaming.github.io/fungus-portfolio/)
 - 👀 I’m interested in front-end technology
 - 🌱 I’m currently advancing React JS code with design patterns.
 - 📫 Come connect with me [linkedin](https://www.linkedin.com/in/liew-wei-fung-69a91719a)
